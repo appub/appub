@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I am **Appu**, I work as a backend developer at [CLearTax India](https://cleartax.in/)
+I am **Appu**, I work as a backend developer at [ClearTax India](https://cleartax.in/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/appu-b/" target="_blank">LinkedIn</a>  /  <a href="https://twitter.com/_appub" target="_blank">twitter</a>  /  <a href="https://appub.github.io/" target="_blank">Blog</a>  
