@@ -3,7 +3,7 @@
 I am **Appu**, I work as a backennd developer at [CLearTax India](https://cleartax.in/)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/appu-b/" target="_blank">Profile</a>  /  <a href="https://twitter.com/_appub" target="_blank">Social</a>  /  <a href="https://appub.github.io/" target="_blank">Blog</a>  
+  <a href="https://www.linkedin.com/in/appu-b/" target="_blank">LinkedIn</a>  /  <a href="https://twitter.com/_appub" target="_blank">twitter</a>  /  <a href="https://appub.github.io/" target="_blank">Blog</a>  
 </p>
 <!--
 **appub/appub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
